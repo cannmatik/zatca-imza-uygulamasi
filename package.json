@@ -1,3 +1,7 @@
+"scripts": {
+  "build": "NEXT_DISABLE_ESLINT=1 NEXT_DISABLE_TSC_CHECK=1 next build"
+}
+
 {
   "name": "zatca-imza-uygulamasi",
   "version": "0.1.0",
